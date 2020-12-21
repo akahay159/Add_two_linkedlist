@@ -54,3 +54,7 @@ class Solution {
         return dummy.next;
     }
 }
+
+
+// Space Complexity O(max(m,n)) where m and n are the total number of nodes and if no extra space is required i.e for result then it would be O(1){constant}
+// Time Complexity O(m+n)
